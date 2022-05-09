@@ -1,7 +1,5 @@
 # <center>CGAN_jittor</center>
 
-##项目简介
-
 Generative Adversarial Nets（GAN）[1]提出了生成和对抗网络来训练生成模型。然而，GAN对于要生成的图片缺少控制。Conditional GAN（CGAN）[2]通过添加显式的条件或标签，可以更好地解决控制生成图像的问题。
 
 本项目利用jittor框架，搭建了一个完整的、用于手写数字图片生成的CGAN模型，可以借助开源数字图片数据集MNIST完成训练和生成手写数字过程。
@@ -37,7 +35,7 @@ cd CGAN_jittor
 
 ## 训练结果
 
-下面展示了本项目在MNIST数据集的训练结果。以下分别是训练第0 epoch和93 epoches的结果。  ![93000](https://github.com/liu-tq20/CGAN_jittor/resultImg/0.png)![93000](https://github.com/liu-tq20/CGAN_jittor/resultImg/93000.png)
+下面展示了本项目在MNIST数据集的训练结果。以下分别是训练第0 epoch和93 epoches的结果。  ![93000](https://github.com/liu-tq20/CGAN_jittor/blob/main/resultImg/0.png)![93000](https://github.com/liu-tq20/CGAN_jittor/blob/main/resultImg/93000.png)
 
 ## 参考文献
 
