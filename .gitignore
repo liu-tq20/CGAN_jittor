@@ -1,0 +1,8 @@
+# 不上传实验报告
+*.png
+*.pdf
+.DS_Store
+.idea
+.ipynb_checkpoints
+
+
