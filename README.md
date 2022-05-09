@@ -37,7 +37,7 @@ cd CGAN_jittor
 
 ## 训练结果
 
-下面展示了本项目在MNIST数据集的训练结果。以下分别是训练第0 epoch和93 epoches的结果。  ![93000](/Users/hi_babe/Downloads/newJittor/0.png)![93000](/Users/hi_babe/Downloads/newJittor/93000.png)
+下面展示了本项目在MNIST数据集的训练结果。以下分别是训练第0 epoch和93 epoches的结果。  ![93000](https://github.com/liu-tq20/CGAN_jittor/resultImg/0.png)![93000](https://github.com/liu-tq20/CGAN_jittor/resultImg/93000.png)
 
 ## 参考文献
 
